@@ -1,8 +1,11 @@
-## sbt project compiled with Scala 3
+## Первая лабораторная работа по предмету "Большие данные" на языке Scala 
 
-### Usage
+### Вариант 3 <br><br>  Постановка задачи 
 
-This is a normal sbt project. You can compile code with `sbt compile`, run it with `sbt run`, and `sbt console` will start a Scala 3 REPL.
+В списке найдите количество нечетных элементов.
 
-For more information on the sbt-dotty plugin, see the
-[scala3-example-project](https://github.com/scala/scala3-example-project/blob/main/README.md).
+## Пример вывода:
+
+Список самих чисел: List(55, 71, 15, 69, 83, 39, 85, 35, 24, 9, 49, 84, 39, 24, 44, 51, 58, 37, 74, 58) <br>
+Вот и сами нечетные числа: 55 71 15 69 83 39 85 35 9 49 39 51 37 <br>
+Вот их количество нечётных чисел: 13 <br>
